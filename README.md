@@ -2,20 +2,22 @@
 
 この zip には以下のファイルが含まれています。
 
-  README.md      このファイル
-  name.txt       キャラクター名
-  cv.txt         声優名
-  misc.txt       その他の関連用語と便利変換用語
-  misc2.txt      その他の関連用語と便利変換用語
+```
+ * README.md      このファイル
+ * name.txt       キャラクター名辞書
+ * cv.txt         声優名辞書
+ * misc.txt       その他の関連用語と便利変換用語辞書
+ * misc2.txt      その他の関連用語と便利変換用語辞書
+```
 
-「BanG Dream! 2nd Season」までに登場するキャラクターの辞書変換を円滑に行うためのIME辞書登録用テキストファイル群です。
+この辞書は「BanG Dream! 2nd Season」までに登場するキャラクターの辞書変換を円滑に行うために作成されたIME辞書登録用テキストファイル群です。
 
-これらのファイルは MS-IME 形式で、文字コードはシフトJIS (CP932) です。
-最近のメジャーな IME は他のメジャーな IME の形式を読み込むことができます。
-ATOK と Google IME では読み込める可能性はありますが未検証ですので保証いたしません。
-また、今後 ATOK や Google IME に対応する予定は未定です。
+これらのファイルは MS-IME 形式で、文字コードはシフトJIS (CP932) です。  
+最近のメジャーな IME は他のメジャーな IME の形式を読み込むことができます。  
+ATOK と Google IME では読み込める可能性はありますが未検証ですので保証いたしません。  
+また、今後 ATOK や Google IME に対応する予定は未定です。  
 
-ソースは GitHub https://github.com/Cluele/BanG_Dream-dic で公開しています。
+ソースは GitHub https://github.com/Cluele/BanG_Dream-dic で公開しています。  
 リポジトリでは適宜修正が行われているため、最新状態が必要な場合はそちらを参照してください。
 
 ----
